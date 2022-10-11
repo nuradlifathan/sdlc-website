@@ -1,1 +1,9 @@
 initial commit
+
+- Create branch dengan nama sesuai issue type
+- Do development on brach (commit, push)
+- Create PR (Pull Request)
+- If done and sure, Squash and Merge PR
+- Then change to branch "main"
+- Lalu "git fetch" and "git pull origin main"
+- Back to step 1
