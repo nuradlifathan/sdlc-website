@@ -1,3 +1,5 @@
+# SDLC
+
 Software Development Lifecycle (SDLC) is a process used by the sofware industry to design, develop and test high quality sofwars.
 The SDLC aims to produce a high-quality sofware that meets or exceeds customer expectations, reaches completion within times and cost estimates.
 
